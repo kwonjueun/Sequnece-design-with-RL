@@ -1,6 +1,7 @@
 import time
 import numpy as np
 import tkinter as tk
+import tensorflow as tf
 from PIL import ImageTk, Image
 
 PhotoImage = ImageTk.PhotoImage
